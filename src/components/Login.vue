@@ -90,10 +90,13 @@
                 type: 'error'
               })
             } else {
-              console.log('error submit!')
-              return false
+                sessionStorage['user'] = JSON.stringify(user)
+                scope.$router.push('/table')
             }
           })
+        } else {
+            console.log('error submit!!');
+            return false;
         }
       })
     }
