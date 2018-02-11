@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ESLintProjectComponent">
     <option name="eslintRcFile" value="" />
-    <option name="eslintExecutable" value="$PROJECT_DIR$/eslint" />
+    <option name="eslintExecutable" value="F:\myStudy\vue-node\vue-node-majie\node_modules\.bin\eslint.cmd" />
     <option name="nodeInterpreter" value="D:\node.exe" />
     <option name="pluginEnabled" value="true" />
   </component>
